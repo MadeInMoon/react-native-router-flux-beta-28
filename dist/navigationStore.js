@@ -230,7 +230,7 @@ borderBottomWidth:0,elevation:1};
 if(backToInitial){
 res.tabBarOnPress=function(_ref4){var scene=_ref4.scene,jumpToIndex=_ref4.jumpToIndex;
 if(scene.focused){
-if(scene.route.index!==0&&scene.route.routes){
+if(scene.route.index!==0){
 
 
 
