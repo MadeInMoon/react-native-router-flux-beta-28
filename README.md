@@ -1,4 +1,4 @@
-This fork uses the beta-28 of react-native-router-flux to fix the "tab clicked twice" bud decripbed in this [PR](https://github.com/aksonov/react-native-router-flux/pull/2927) non-merged
+This fork uses the beta-28 of [react-native-router-flux](https://github.com/aksonov/react-native-router-flux/pull/2927) to fix the "tab clicked twice" bud decripbed in this [PR](https://github.com/aksonov/react-native-router-flux/pull/2927) non-merged
 
 
 In package.json
